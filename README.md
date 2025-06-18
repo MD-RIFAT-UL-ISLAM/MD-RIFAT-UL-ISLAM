@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Rifat!
+🎓 B.Sc. in Computer Science and Engineering (CSE)  
+Rajshahi University (2025 – 2029)
 
-<!--
-**MD-RIFAT-UL-ISLAM/MD-RIFAT-UL-ISLAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Goals
+- Learn Data Structures and Algorithms
+- Build real-world projects
+- Contribute to open-source
+- Master AI & Software Engineering
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- C Programming (learning)
+- Problem Solving
+- English communication (improving)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect
+- Email:mdrifatuli217@gmail.com
